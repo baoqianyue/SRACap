@@ -28,7 +28,6 @@ python main.py \
 --continuous_prompt_length 10 \
 --soft_prompt_first \
 --max_num_of_entities 5 \
---path_of_datasets ./annotations/cc3m/cc3m_texts_features_ViT-B32.pickle \
 --path_of_sg ./annotations/cc3m/cc3m_texts_sg_features_ViT-B32.pickle \
 --num_workers 4 \
 --out_dir checkpoints/$EXP_NAME \

@@ -1,0 +1,10 @@
+huggingface-hub==0.25.0
+transformers==4.19.2
+pandas
+nltk==3.8.1
+matplotlib
+numpy
+pycocotools
+scikit-learn
+scikit-image
+ipdb
